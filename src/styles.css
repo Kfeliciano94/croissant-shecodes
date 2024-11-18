@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(244, 217, 136);
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgba(72, 71, 71, 0.174);
+}
+
+.nav-tabs {
+  padding: 10px 5px 10px 5px;
+  margin: 0 10px;
+}
+
+p {
+  display: block;
+  margin: 0 auto;
+}
